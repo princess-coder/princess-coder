@@ -1,6 +1,6 @@
-# Hi, I'm Joy Chiwendu Sunday 👋
+## Hi, I'm Joy Chiwendu Sunday 👋
 
-**Aspiring Data Analyst | Abuja, Nigeria**
+**Data Analyst | Abuja, Nigeria**
 Turning messy customer & sales data into clear decisions.
 
 I spent 4+ years working with real business data in customer service, sales, and telemarketing — CRM records, 300+ calls, leads, conversions. Now I'm learning Data Analysis properly and building in public.

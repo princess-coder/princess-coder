@@ -34,6 +34,6 @@ I'm continuously strengthening my analytical capabilities through practical proj
 ### 📫 Let's Connect
 - LinkedIn: www.linkedin.com/in/sunday-joy-chiwendu
 - Email: chiwendujoy2016@gmail.com
-- GitHub: github.com/princess-coder
+- GitHub: https://github.com/princess-coder
 
 - ⚡ Fun fact: "Data is just stories waiting to be told clearly."

@@ -1,9 +1,9 @@
 ## Hi, I'm Joy Chiwendu Sunday 👋
 
 **Data Analyst | Abuja, Nigeria**
-Turning messy customer & sales data into clear decisions.
 
-I spent 4+ years working with real business data in customer service, sales, and telemarketing — CRM records, 300+ calls, leads, conversions. Now I'm learning Data Analysis properly and building in public.
+
+I spent 4+ years working with real business data in customer service, sales, and telemarketing — CRM records, 300+ calls, leads, conversions. Now I'm learning Data Analysis properly, turning messy customer sales data into clear decisions and building in public.
 
 ### 🛠️ My Stack
 - **Excel:** Cleaning, PivotTables, Dashboards

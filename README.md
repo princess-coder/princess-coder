@@ -24,8 +24,8 @@ I spent 4+ years working with real business data in customer service, sales, and
 - [ ] Python - Pandas & Visualization
 
 ### 📫 Let's Connect
-- LinkedIn: linkedin.com/in/joychiwendu
+- LinkedIn: www.linkedin.com/in/sunday-joy-chiwendu
 - Email: chiwendujoy2016@gmail.com
 - GitHub: github.com/princess-coder
 
-- ⚡ Fun fact: ...> "Data is just stories waiting to be told clearly."
+- ⚡ Fun fact: "Data is just stories waiting to be told clearly."

@@ -22,7 +22,7 @@ I'm continuously strengthening my analytical capabilities through practical proj
 ### 📂 My Projects
 | Project | Tools | What It Does |
 | :--- | :--- | :--- |
-| [Customer Churn Analysis](https://github.com/princess-coder/Telco-Customer-Churn-Analysi) | Power BI + SQL | Found why customers leave |
+| [Customer Churn Analysis](https://github.com/princess-coder/Telco-Customer-Churn-Analysis) | Power BI + SQL | Found why customers leave |
 | [Sales Dashboard](https://github.com/princess-coder/sales-dashboard-powerbi) | Power BI | Sales, leads & conversion by month |
 | [Call Performance Analysis](https://github.com/princess-coder/call-performance-analysis) | Python + Excel | What makes a call convert? |
 
